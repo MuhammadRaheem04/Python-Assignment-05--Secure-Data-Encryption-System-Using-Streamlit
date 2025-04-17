@@ -1,0 +1,6 @@
+# Ignore sensitive and generated files
+data.json
+secret.key
+__pycache__/
+*.pyc
+.env
